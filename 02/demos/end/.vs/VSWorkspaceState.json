@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AbstractFactory",
+    "\\Bridge",
+    "\\Command"
+  ],
+  "SelectedNode": "\\Command\\Command.csproj",
+  "PreviewInSolutionExplorer": false
+}

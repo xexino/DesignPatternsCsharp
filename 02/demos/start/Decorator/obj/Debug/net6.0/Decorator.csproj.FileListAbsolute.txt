@@ -1,0 +1,29 @@
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\bin\Debug\net6.0\Decorator.exe
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\bin\Debug\net6.0\Decorator.deps.json
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\bin\Debug\net6.0\Decorator.dll
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\bin\Debug\net6.0\ref\Decorator.dll
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\bin\Debug\net6.0\Decorator.pdb
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.dll
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\ref\Decorator.dll
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.pdb
+C:\Users\kevin\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\obj\Debug\net6.0\Decorator.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\obj\Debug\net6.0\ref\Decorator.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\obj\Debug\net6.0\Decorator.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\bin\Debug\net6.0\Decorator.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\bin\Debug\net6.0\Decorator.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\bin\Debug\net6.0\Decorator.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\bin\Debug\net6.0\ref\Decorator.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\bin\Debug\net6.0\Decorator.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache

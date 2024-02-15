@@ -1,0 +1,44 @@
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ref\ChainOfResponsibility.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ref\ChainOfResponsibility.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.genruntimeconfig.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\obj\Debug\net6.0\ref\ChainOfResponsibility.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\bin\Debug\net6.0\ref\ChainOfResponsibility.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.genruntimeconfig.cache
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.exe
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.deps.json
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.runtimeconfig.json
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.dll
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ref\ChainOfResponsibility.dll
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.pdb
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.csproj.AssemblyReference.cache
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfo.cs
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.dll
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ref\ChainOfResponsibility.dll
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.pdb
+C:\Pluralsight demo\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\DesignPatterns\02\demos\end\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+C:\DesignPatterns\02\demos\end\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+C:\DesignPatterns\02\demos\end\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+C:\DesignPatterns\02\demos\end\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+C:\DesignPatterns\02\demos\end\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+C:\DesignPatterns\02\demos\end\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\02\demos\end\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\DesignPatterns\02\demos\end\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+C:\DesignPatterns\02\demos\end\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\02\demos\end\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+C:\DesignPatterns\02\demos\end\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+C:\DesignPatterns\02\demos\end\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+C:\DesignPatterns\02\demos\end\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+C:\DesignPatterns\02\demos\end\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll

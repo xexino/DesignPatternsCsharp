@@ -1,0 +1,44 @@
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\bin\Debug\net6.0\ref\TemplateMethod.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\obj\Debug\net6.0\ref\TemplateMethod.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.genruntimeconfig.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\obj\Debug\net6.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\obj\Debug\net6.0\TemplateMethod.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\obj\Debug\net6.0\ref\TemplateMethod.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\obj\Debug\net6.0\TemplateMethod.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\bin\Debug\net6.0\TemplateMethod.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\bin\Debug\net6.0\TemplateMethod.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\bin\Debug\net6.0\TemplateMethod.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\bin\Debug\net6.0\TemplateMethod.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\bin\Debug\net6.0\ref\TemplateMethod.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\bin\Debug\net6.0\TemplateMethod.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\TemplateMethod\obj\Debug\net6.0\TemplateMethod.genruntimeconfig.cache
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.exe
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.deps.json
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.runtimeconfig.json
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.dll
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\bin\Debug\net6.0\ref\TemplateMethod.dll
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.pdb
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.AssemblyReference.cache
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfo.cs
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.dll
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\obj\Debug\net6.0\ref\TemplateMethod.dll
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.pdb
+C:\Pluralsight demo\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.genruntimeconfig.cache

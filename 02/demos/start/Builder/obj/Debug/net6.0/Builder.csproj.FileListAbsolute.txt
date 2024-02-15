@@ -1,0 +1,29 @@
+C:\Users\kevin\source\repos\DesignPatterns\Builder\bin\Debug\net6.0\Builder.exe
+C:\Users\kevin\source\repos\DesignPatterns\Builder\bin\Debug\net6.0\Builder.deps.json
+C:\Users\kevin\source\repos\DesignPatterns\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+C:\Users\kevin\source\repos\DesignPatterns\Builder\bin\Debug\net6.0\Builder.dll
+C:\Users\kevin\source\repos\DesignPatterns\Builder\bin\Debug\net6.0\ref\Builder.dll
+C:\Users\kevin\source\repos\DesignPatterns\Builder\bin\Debug\net6.0\Builder.pdb
+C:\Users\kevin\source\repos\DesignPatterns\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\DesignPatterns\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\DesignPatterns\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\DesignPatterns\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+C:\Users\kevin\source\repos\DesignPatterns\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\DesignPatterns\Builder\obj\Debug\net6.0\Builder.dll
+C:\Users\kevin\source\repos\DesignPatterns\Builder\obj\Debug\net6.0\ref\Builder.dll
+C:\Users\kevin\source\repos\DesignPatterns\Builder\obj\Debug\net6.0\Builder.pdb
+C:\Users\kevin\source\repos\DesignPatterns\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\obj\Debug\net6.0\Builder.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\obj\Debug\net6.0\ref\Builder.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\obj\Debug\net6.0\Builder.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\bin\Debug\net6.0\Builder.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\bin\Debug\net6.0\Builder.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\bin\Debug\net6.0\Builder.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\bin\Debug\net6.0\ref\Builder.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\bin\Debug\net6.0\Builder.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache

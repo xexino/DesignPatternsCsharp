@@ -1,0 +1,43 @@
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\bin\Debug\net6.0\Singleton.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\bin\Debug\net6.0\Singleton.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\bin\Debug\net6.0\Singleton.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\bin\Debug\net6.0\ref\Singleton.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\bin\Debug\net6.0\Singleton.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\obj\Debug\net6.0\ref\Singleton.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\bin\Debug\net6.0\Singleton.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\bin\Debug\net6.0\Singleton.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\bin\Debug\net6.0\Singleton.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\bin\Debug\net6.0\ref\Singleton.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\bin\Debug\net6.0\Singleton.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\obj\Debug\net6.0\Singleton.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\obj\Debug\net6.0\ref\Singleton.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\obj\Debug\net6.0\Singleton.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+C:\Pluralsight demo\DesignPatterns\Singleton\bin\Debug\net6.0\Singleton.exe
+C:\Pluralsight demo\DesignPatterns\Singleton\bin\Debug\net6.0\Singleton.deps.json
+C:\Pluralsight demo\DesignPatterns\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+C:\Pluralsight demo\DesignPatterns\Singleton\bin\Debug\net6.0\Singleton.dll
+C:\Pluralsight demo\DesignPatterns\Singleton\bin\Debug\net6.0\ref\Singleton.dll
+C:\Pluralsight demo\DesignPatterns\Singleton\bin\Debug\net6.0\Singleton.pdb
+C:\Pluralsight demo\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pluralsight demo\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+C:\Pluralsight demo\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+C:\Pluralsight demo\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Pluralsight demo\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.dll
+C:\Pluralsight demo\DesignPatterns\Singleton\obj\Debug\net6.0\ref\Singleton.dll
+C:\Pluralsight demo\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.pdb
+C:\Pluralsight demo\DesignPatterns\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache

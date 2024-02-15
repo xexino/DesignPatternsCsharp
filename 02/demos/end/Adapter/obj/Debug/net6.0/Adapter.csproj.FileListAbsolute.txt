@@ -1,0 +1,44 @@
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\bin\Debug\net6.0\ref\Adapter.dll
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\kevin\source\repos\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\bin\Debug\net6.0\ref\Adapter.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+C:\Pluralsight demo\DesignPatterns\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\Pluralsight demo\DesignPatterns\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Pluralsight demo\DesignPatterns\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Pluralsight demo\DesignPatterns\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Pluralsight demo\DesignPatterns\Adapter\bin\Debug\net6.0\ref\Adapter.dll
+C:\Pluralsight demo\DesignPatterns\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Pluralsight demo\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Pluralsight demo\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pluralsight demo\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Pluralsight demo\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Pluralsight demo\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Pluralsight demo\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Pluralsight demo\DesignPatterns\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+C:\Pluralsight demo\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Pluralsight demo\DesignPatterns\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache

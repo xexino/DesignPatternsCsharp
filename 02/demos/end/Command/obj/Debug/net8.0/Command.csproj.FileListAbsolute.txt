@@ -1,0 +1,14 @@
+C:\DesignPatterns\02\demos\end\Command\bin\Debug\net8.0\Command.exe
+C:\DesignPatterns\02\demos\end\Command\bin\Debug\net8.0\Command.deps.json
+C:\DesignPatterns\02\demos\end\Command\bin\Debug\net8.0\Command.runtimeconfig.json
+C:\DesignPatterns\02\demos\end\Command\bin\Debug\net8.0\Command.dll
+C:\DesignPatterns\02\demos\end\Command\bin\Debug\net8.0\Command.pdb
+C:\DesignPatterns\02\demos\end\Command\obj\Debug\net8.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\02\demos\end\Command\obj\Debug\net8.0\Command.AssemblyInfoInputs.cache
+C:\DesignPatterns\02\demos\end\Command\obj\Debug\net8.0\Command.AssemblyInfo.cs
+C:\DesignPatterns\02\demos\end\Command\obj\Debug\net8.0\Command.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\02\demos\end\Command\obj\Debug\net8.0\Command.dll
+C:\DesignPatterns\02\demos\end\Command\obj\Debug\net8.0\refint\Command.dll
+C:\DesignPatterns\02\demos\end\Command\obj\Debug\net8.0\Command.pdb
+C:\DesignPatterns\02\demos\end\Command\obj\Debug\net8.0\Command.genruntimeconfig.cache
+C:\DesignPatterns\02\demos\end\Command\obj\Debug\net8.0\ref\Command.dll

@@ -1,0 +1,44 @@
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\bin\Debug\net6.0\State.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\bin\Debug\net6.0\State.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\bin\Debug\net6.0\State.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\bin\Debug\net6.0\State.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\bin\Debug\net6.0\ref\State.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\bin\Debug\net6.0\State.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\obj\Debug\net6.0\State.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\obj\Debug\net6.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\obj\Debug\net6.0\State.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\obj\Debug\net6.0\State.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\obj\Debug\net6.0\State.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\obj\Debug\net6.0\State.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\obj\Debug\net6.0\ref\State.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\obj\Debug\net6.0\State.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\DesignPatterns\State\obj\Debug\net6.0\State.genruntimeconfig.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\obj\Debug\net6.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\obj\Debug\net6.0\State.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\obj\Debug\net6.0\State.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\obj\Debug\net6.0\State.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\obj\Debug\net6.0\State.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\obj\Debug\net6.0\ref\State.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\obj\Debug\net6.0\State.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\bin\Debug\net6.0\State.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\bin\Debug\net6.0\State.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\bin\Debug\net6.0\State.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\bin\Debug\net6.0\State.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\bin\Debug\net6.0\ref\State.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\bin\Debug\net6.0\State.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\State\obj\Debug\net6.0\State.genruntimeconfig.cache
+C:\Pluralsight demo\DesignPatterns\State\bin\Debug\net6.0\State.exe
+C:\Pluralsight demo\DesignPatterns\State\bin\Debug\net6.0\State.deps.json
+C:\Pluralsight demo\DesignPatterns\State\bin\Debug\net6.0\State.runtimeconfig.json
+C:\Pluralsight demo\DesignPatterns\State\bin\Debug\net6.0\State.dll
+C:\Pluralsight demo\DesignPatterns\State\bin\Debug\net6.0\ref\State.dll
+C:\Pluralsight demo\DesignPatterns\State\bin\Debug\net6.0\State.pdb
+C:\Pluralsight demo\DesignPatterns\State\obj\Debug\net6.0\State.csproj.AssemblyReference.cache
+C:\Pluralsight demo\DesignPatterns\State\obj\Debug\net6.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pluralsight demo\DesignPatterns\State\obj\Debug\net6.0\State.AssemblyInfoInputs.cache
+C:\Pluralsight demo\DesignPatterns\State\obj\Debug\net6.0\State.AssemblyInfo.cs
+C:\Pluralsight demo\DesignPatterns\State\obj\Debug\net6.0\State.csproj.CoreCompileInputs.cache
+C:\Pluralsight demo\DesignPatterns\State\obj\Debug\net6.0\State.dll
+C:\Pluralsight demo\DesignPatterns\State\obj\Debug\net6.0\ref\State.dll
+C:\Pluralsight demo\DesignPatterns\State\obj\Debug\net6.0\State.pdb
+C:\Pluralsight demo\DesignPatterns\State\obj\Debug\net6.0\State.genruntimeconfig.cache

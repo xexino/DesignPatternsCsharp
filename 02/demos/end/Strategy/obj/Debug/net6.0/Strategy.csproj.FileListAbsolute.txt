@@ -1,0 +1,28 @@
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\obj\Debug\net6.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\obj\Debug\net6.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\bin\Debug\net6.0\Strategy.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\bin\Debug\net6.0\Strategy.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\bin\Debug\net6.0\Strategy.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\bin\Debug\net6.0\Strategy.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\bin\Debug\net6.0\ref\Strategy.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\bin\Debug\net6.0\Strategy.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\obj\Debug\net6.0\Strategy.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\obj\Debug\net6.0\ref\Strategy.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\obj\Debug\net6.0\Strategy.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Strategy\obj\Debug\net6.0\Strategy.genruntimeconfig.cache
+C:\Pluralsight demo\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.exe
+C:\Pluralsight demo\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.deps.json
+C:\Pluralsight demo\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.runtimeconfig.json
+C:\Pluralsight demo\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.dll
+C:\Pluralsight demo\DesignPatterns\Strategy\bin\Debug\net6.0\ref\Strategy.dll
+C:\Pluralsight demo\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.pdb
+C:\Pluralsight demo\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pluralsight demo\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfoInputs.cache
+C:\Pluralsight demo\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfo.cs
+C:\Pluralsight demo\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Pluralsight demo\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.dll
+C:\Pluralsight demo\DesignPatterns\Strategy\obj\Debug\net6.0\ref\Strategy.dll
+C:\Pluralsight demo\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.pdb
+C:\Pluralsight demo\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.genruntimeconfig.cache

@@ -1,0 +1,48 @@
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\bin\Debug\net6.0\ref\Prototype.dll
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\ref\Prototype.dll
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kevin\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.CopyComplete
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\obj\Debug\net6.0\ref\Prototype.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\bin\Debug\net6.0\ref\Prototype.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\Pluralsight demo\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Pluralsight demo\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Pluralsight demo\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Pluralsight demo\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Pluralsight demo\DesignPatterns\Prototype\bin\Debug\net6.0\ref\Prototype.dll
+C:\Pluralsight demo\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Pluralsight demo\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pluralsight demo\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Pluralsight demo\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Pluralsight demo\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Pluralsight demo\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Pluralsight demo\DesignPatterns\Prototype\obj\Debug\net6.0\ref\Prototype.dll
+C:\Pluralsight demo\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Pluralsight demo\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\Pluralsight demo\DesignPatterns\Prototype\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Pluralsight demo\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+C:\Pluralsight demo\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.CopyComplete

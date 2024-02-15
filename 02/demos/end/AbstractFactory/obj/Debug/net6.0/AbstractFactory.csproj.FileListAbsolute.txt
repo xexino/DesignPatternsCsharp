@@ -1,0 +1,44 @@
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\bin\Debug\net6.0\ref\AbstractFactory.dll
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\Users\kevin\source\repos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\bin\Debug\net6.0\ref\AbstractFactory.dll
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\kevin\OneDrive - MARVIN (Kevin Dockx)\Pluralsight\csharp-10-design-patterns\starter\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\bin\Debug\net6.0\ref\AbstractFactory.dll
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\Pluralsight demo\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
